@@ -1,5 +1,8 @@
 {
   "name": "Recreo",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "electropunq_Recreo",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }

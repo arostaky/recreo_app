@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "229429595717",
+    "firebase_url": "https://unq-esp8266.firebaseio.com",
+    "project_id": "unq-esp8266",
+    "storage_bucket": "unq-esp8266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229429595717:android:bf2a556235e0750c",
+        "android_client_info": {
+          "package_name": "com.electropunq.recreo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229429595717-7fn7jc82vao7b9ba2e5blfl653jfp9fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3eJdlh1DPAga4WzM72QaI515czIgZgUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
