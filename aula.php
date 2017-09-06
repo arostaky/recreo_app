@@ -7,10 +7,10 @@ $registrationIds = array( $_GET['id'] );
 // prep the bundle
 $msg = array
 (
-	'message' 	=> 'here is a message. message',
-	'title'		=> 'This is a title. title',
-	'subtitle'	=> 'This is a subtitle. subtitle',
-	'tickerText'	=> 'Ticker text here...Ticker text here...Ticker text here',
+	'message' 	=> 'Estimados Alumn@s, el profesor ha regresado al aula.',
+	'title'		=> 'Aula 26: El profesor ha regresado',
+	'subtitle'	=> 'el profesor ha regresado al aula',
+	'tickerText'	=> 'el profesor ha regresado al aula (sticker)',
 	'vibrate'	=> 1,
 	'sound'		=> 1,
 	'largeIcon'	=> 'large_icon',
